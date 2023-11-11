@@ -13,3 +13,19 @@
     I am seeking an opportunity to join a team and participate in the development of web projects, grow in this field, and learn new things.
 
     I would be happy to establish connections with other front-end developers, businessmen, and project managers, as well as participate in IT-related communities.
+
+    ## Skills
+    * Html5
+    * JavaScript
+    * React
+    * Sass
+    * Git
+    * CSS
+
+## Code Example
+
+    '''
+    function filter_list(l) {
+    return l.filter(item => typeof item !== 'string');
+    } 
+    '''
