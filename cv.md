@@ -29,3 +29,15 @@
     return l.filter(item => typeof item !== 'string');
     } 
     '''
+
+## Education
+
+    * Vinitsa medical university by Pirogov
+    * IT school: GOIT
+    * RS School (in progress)
+
+## Language
+
+    * Ukraine native language
+    * English A2
+    
